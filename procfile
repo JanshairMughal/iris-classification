@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run iris-classification.py
+web: sh setup.sh && streamlit run iris-Teacable-Machine.py
